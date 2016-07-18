@@ -1,0 +1,36 @@
+jdatasrc-tj.o: jdatasrc-tj.c jinclude.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/jconfig.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.2/include/stddef.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/stdio.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/libio.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/_G_config.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/wchar.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.2/include/stdarg.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string2.h \
+  jpeglib.h \
+  /home/hello/work/2440/usr/local/arm/4.3.2/bin/../arm-none-linux-gnueabi/libc/usr/include/jmorecfg.h \
+  jerror.h
